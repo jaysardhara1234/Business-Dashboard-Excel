@@ -22,7 +22,7 @@ This project contains a Business Dashboard built in Microsoft Excel. It helps an
 - Performance trends
 - Aggregated summaries
 
-📌 UsUse Cases:
+📌Use Cases:
 - Business performance tracking
 - Sales analysis
 - Product comparison
